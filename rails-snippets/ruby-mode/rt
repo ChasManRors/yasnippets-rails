@@ -1,3 +1,4 @@
 #name : render :text => " ... "
+#group : controller
 # --
 render :text => "${Text here...}"

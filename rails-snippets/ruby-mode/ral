@@ -1,3 +1,4 @@
 #name : render :action => " ... ", :layout => " ... "
+#group : controller
 # --
 render :action => "${action}", :layout => "${layoutname}"

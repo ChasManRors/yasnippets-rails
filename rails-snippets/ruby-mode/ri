@@ -1,3 +1,4 @@
 #name : render :inline => " ... "
+#group : controller
 # --
 render :inline => "${<%= 'hello' %>}"

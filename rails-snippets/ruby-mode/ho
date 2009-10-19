@@ -1,3 +1,4 @@
 #name : has_one : ... 
+#group : definitions
 # --
 has_one :${class}

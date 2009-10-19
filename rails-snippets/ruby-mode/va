@@ -1,3 +1,4 @@
 #name : validates_associated : ... 
+#group : definitions
 # --
 validates_associated :${attr}

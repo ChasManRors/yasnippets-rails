@@ -1,3 +1,4 @@
 #name : validates_exclusion_of : ... 
+#group : definitions
 # --
 validates_exclusion_of :${attr}

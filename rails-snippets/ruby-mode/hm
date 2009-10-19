@@ -1,3 +1,4 @@
 #name : has_many : ... 
+#group : definitions
 # --
 has_many :${class}

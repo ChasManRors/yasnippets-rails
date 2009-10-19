@@ -1,3 +1,4 @@
 #name : render :text => " ... ", :layout =>  ... 
+#group : controller
 # --
 render :text => "${Text here...}", :layout => ${true}
