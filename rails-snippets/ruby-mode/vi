@@ -1,0 +1,5 @@
+#contributor : Konstantin Antipin <antipin.konstantin@googlemail.com>
+#name : validates_inclusion_of : ...
+#group : definitions
+# --
+validates_inclusion_of :${attr}
