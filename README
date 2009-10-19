@@ -1,19 +1,24 @@
-test
+
 yasnippets snippet definitions for use with Ruby on Rails
 
 for information on yasnippets see http://code.google.com/p/yasnippet/
 for information on Ruby on Rails see http://www.rubyonrails.org/
 
-contents:
-
-- setup.el: contains some configuration options for using yasnippets
-              in a Ruby on Rails project, specifically in .rhtml files
-              alongside Rhtml-Mode or MuMaMo-Mode
-
-- rails-snippets: the actual directory of snippets
+Not all emacs configurations default to making rails-snippets available by default.  Every emacs configuration, for ruby,  I have tried makes the ruby-mode options available for yasnippets.  So the dirfolder yasnippets-rails/rails-snippets/ruby-mode/ now contains the bundled ruby-mode with rails-mode and rhtml-mode snippets.    The snippets are subdivided by the yasnippets 'group's instead of dirfolders.  You can use symbolic links and add back the other modes, if needed.
 
 
-- util: The elisp I used to convert these snippets from
-              rinari-abbrevs.el.  All credit for their content goes to
-              the creators of rinari-abbrevs.el... ``Thanks to
-              TextMate, Pete Kazmier, and Galinsky Dmitry''
+The following may be out of date
+
+#   contents:
+#
+#    - setup.el: contains some configuration options for using yasnippets
+#		  in a Ruby on Rails project, specifically in .rhtml files
+#		  alongside Rhtml-Mode or MuMaMo-Mode
+#
+#    - rails-snippets: the actual directory of snippets
+#
+#
+#    - util: The elisp I used to convert these snippets from
+#		  rinari-abbrevs.el.  All credit for their content goes to
+#		  the creators of rinari-abbrevs.el... ``Thanks to
+#		  TextMate, Pete Kazmier, and Galinsky Dmitry''
