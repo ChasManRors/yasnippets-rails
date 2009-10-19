@@ -1,3 +1,4 @@
+test
 yasnippets snippet definitions for use with Ruby on Rails
 
 for information on yasnippets see http://code.google.com/p/yasnippet/
@@ -10,6 +11,7 @@ contents:
               alongside Rhtml-Mode or MuMaMo-Mode
 
 - rails-snippets: the actual directory of snippets
+
 
 - util: The elisp I used to convert these snippets from
               rinari-abbrevs.el.  All credit for their content goes to
